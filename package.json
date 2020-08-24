@@ -1,0 +1,15 @@
+{
+  "name": "floyd",
+  "version": "1.0.0",
+  "description": "Example Slack Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^2.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
