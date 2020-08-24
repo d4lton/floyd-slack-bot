@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Dana Basken",
   "license": "MIT",
   "dependencies": {
     "@slack/bolt": "^2.1.1",
